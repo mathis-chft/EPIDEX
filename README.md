@@ -25,7 +25,3 @@ Il est réalisé avec VueJS et dresse une liste des pokémons et leurs détails.
 -   Créations d'équipes 
 -   Chemin vers le login et le register (front uniquement)
 -   Champ de recherche (front uniquement)
-
-## Auteur
-
--   Mathis Chouffot
