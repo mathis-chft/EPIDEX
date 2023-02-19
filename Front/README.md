@@ -1,4 +1,4 @@
-Ce projet est un projet personnel visant à réaliser un Pokédex en ligne. Il est basé sur la pokéAPI( https://pokeapi.co/).
+Ce projet est un projet personnel visant à réaliser un Pokédex en ligne basé sur la pokéAPI (https://pokeapi.co/).
 Il est réalisé avec VueJS et dresse une liste des pokémons et leurs détails.
 
 
@@ -25,7 +25,3 @@ Il est réalisé avec VueJS et dresse une liste des pokémons et leurs détails.
 -   Créations d'équipes 
 -   Chemin vers le login et le register (front uniquement)
 -   Champ de recherche (front uniquement)
-
-## Auteur
-
--   Mathis Chouffot
