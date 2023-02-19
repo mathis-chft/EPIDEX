@@ -55,7 +55,7 @@
 </body>
 </template>
 
-<style>
+<style scoped>
   * {
     box-sizing: inherit;
   }
@@ -65,7 +65,6 @@
   }
 
   body {
-    background-color: #c0c0c0;
     font-family: "Varela Round", sans-serif;
     line-height: 1.5;
     margin: 0;

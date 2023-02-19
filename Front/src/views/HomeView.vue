@@ -1,6 +1,6 @@
 <script setup>
 import PageTitle from '@/components/PageTitle.vue'
-import Pokedex from '@/components/Pokedex.vue'
+import Pokedex from '@/views/Pokedex.vue'
 </script>
 
 <template>

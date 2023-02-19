@@ -3,8 +3,8 @@
 
 import { reactive, onMounted, ref } from "vue";
 import axios from "axios";
-import PokemonCard from "./PokemonCard.vue";
-import PokemonModal from "./PokemonModal.vue";
+import PokemonCard from "../components/PokemonCard.vue";
+import PokemonModal from "../components/PokemonModal.vue";
 
 // définir les attributs
 

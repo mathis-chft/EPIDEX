@@ -50,7 +50,7 @@
   }
   
   body {
-    background-color: #c0c0c0;
+    background-color: #efefef;
     font-family: 'Varela Round', sans-serif;
     line-height: 1.5;
     margin: 0;
